@@ -4,6 +4,7 @@ Very simple mvc framework implementation in php:
 * No cache memory
 * No session info
 * etc.
+Example project: [link](https://github.com/WinPooh32/PHP-Simple-Catalog)
 
 # Features
 * PHP-ActiveRecord ORM integration. [Docs](http://www.phpactiverecord.org/). [Archived](https://web.archive.org/web/20180206042031/http://phpactiverecord.org:80/)
