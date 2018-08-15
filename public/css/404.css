@@ -1,0 +1,11 @@
+html, body
+{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#notfound-404-table {
+    height: 100%;
+    width: 100%;
+}
